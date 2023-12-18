@@ -1,0 +1,1 @@
+var json_Boarders_1 = {"type":"FeatureCollection","name":"Boarders_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"1","Name":"حدود المشرفة"},"geometry":{"type":"MultiLineString","coordinates":[[[36.8,34.8],[36.9,34.8]],[[36.9,34.8],[36.9,34.9]]]}}]}
